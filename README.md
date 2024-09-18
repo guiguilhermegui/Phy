@@ -9,6 +9,8 @@ Sugiro abrirem o github em um browser mais convencional, para não precisar loga
 o github nada mais é do que um gerenciador de versões. 
 assim todos podem sempre utilizar uma versão atualizada.
 
+tutorial git https://swcarpentry.github.io/git-novice/
+
 utilize os comandos -> Win+R -->cmd -->ok ---> winget install git.git  ---> aguarde e o git já será instalado 
 git clone (link deste repositório)
 
