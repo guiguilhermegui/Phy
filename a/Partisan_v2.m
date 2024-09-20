@@ -72,7 +72,7 @@ img_files = dir('*.tif');      %%%%%%%%%%%  <-- adjust as needed  %%%%%%%%%%%%
 fnames = {img_files.name};
 if(isfield(img_files, 'folder'))  % doesn't exist in older versions of Matlab
    fpath = {img_files.folder};
-   fpath = fpath{1};  %%% se for um arquivo sÛ nas linhas 60, pode comentar
+   fpath = fpath{1};  %%% se for um arquivo s√≥ nas linhas 60, pode comentar
 else
    fpath = pwd;   % better than nothing :-/
 end
@@ -150,7 +150,7 @@ else
   disp([      'FIXME: Max value of the data is non-standard (' ...
        num2str(max(max(data))) '). Using ' num2str(dthresh) ...
        ' as the threshold between presence and absence.' ...
-       '⁄ltimo aviso Villa check -> apenas pra dizer que a cor m·xima n„o È branco (255) '])
+       '√öltimo aviso Villa check -> apenas pra dizer que a cor m√°xima n√£o √© branco (255) '])
 end
 
 
