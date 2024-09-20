@@ -1,0 +1,5 @@
+PARTISAN (PARTicle Shape ANalyzer) particle parameters -- run 19-Jun-2024 12:14:32
+
+,Basic metrics,,,,,,,,,,,,,,,,,,,,IPA: Dellino and La Volpe (1996),,,,,Cioni et al (2014),,,,,Leibrandt and Le Pennec (2015),,,,,,,Liu et al (2015),,,,,Schmith et al (2017),,,,
+filename,perimeter,particle area,width,breadth,perimeter of circle with area A,maximum intercept,mean intercept perpendicular,max. proj. length,orthogonal proj. length,Heywood diameter,convex hull perimeter,convex hull area,min ellipse perimeter,major best fit ellipse,minor best fit ellipse,diameter bounding circle,minimum Feret,orthogonal Feret,maximum Feret,,circularity,rectangularity,compactness,elongation,,circularity,ellipse aspect ratio,convexity,solidity,,circularity,elongation, aspect ratio,CE diameter,convexity,solidity,,form factor,axial ratio,convexity,solidity,,circularity,rectangularity,form factor,Feret aspect ratio,Feret aspect ratio,regularity parameter
+,p,A,w,b,c,a,m,L_b,W_b,d_H,p_CP,A_CP,e_CE,L_maj,L_min,d_BC,l_F,w_F,d_F,,Circ_DL,Rec_DL,Com_DL,Elo_DL,,Circ_CI,AR_CI,Con_CI,Sol_CI,,Circ_LL,Elo_LL,AR_LL,d_H,Con_LL,Sol_LL,,FF,AR_LI,Con_LI,Sol_LI,,Circ_SC,Rec_SC,FF,AR_F,AR_SC,Reg
