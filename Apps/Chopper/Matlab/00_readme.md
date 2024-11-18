@@ -7,7 +7,8 @@
 ## Bimp✔
 ### 01_Dimensionamento e formato Funcionando no Gimp+Bimp (OK)🤔. Não deve ser difícil no matlab. Provavelmente imwrite(), imresize()
 
-## 02_Classificação das feições funcionando no Ilastik (OK), ❌
+## Ilastik❌
+### 02_Classificação das feições funcionando no Ilastik (OK), ✔
     #### (02.path1_ aprender Machine Learning no Matlab ❌)
       # OU
     #### (02.path2_integração Ilastik --> Matlab ❌)
