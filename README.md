@@ -2,11 +2,11 @@ OIE hello
 
 
 # Phygeo
-Projeto da empresa júnior de geofísica Phygeo
+Projeto da empresa júnior de geofísica Phygeo.
 Elaborado pelo grupo de trabalho do projeto "Partisan"
 
 
-A documentação está escrita na aba Wiki arquivo README.MD
+A documentação está escrita na aba Wiki arquivo README.MD (https://github.com/guiguilhermegui/Phy/wiki)
 
 Arquivo Fork do https://github.com/lsschmidt/PARTISAN com algumas modificações para a execução e adequação do laboratório.
 
